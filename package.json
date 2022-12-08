@@ -1,0 +1,19 @@
+{
+  "name": "lulynn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/troyld-101/myfirstrepo.git"
+  },
+  "author": "Troy Davis",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/troyld-101/myfirstrepo/issues"
+  },
+  "homepage": "https://github.com/troyld-101/myfirstrepo#readme"
+}
